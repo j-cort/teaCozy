@@ -76,7 +76,7 @@ margin: 10px 0;
 /* Mission */
 
 .mission-container {
-    background: url('/resources/images/img-mission-background.jpg') no-repeat center center/cover;
+    background: url('resources/images/img-mission-background.jpg') no-repeat center center/cover;
     height: 700px;
     width: 1200px;
     margin: 0 auto;
@@ -157,7 +157,7 @@ margin: 10px 0;
 
 
 .location-container {
-    background: url('/resources/images/img-locations-background.jpg') no-repeat center center/cover;
+    background: url('resources/images/img-locations-background.jpg') no-repeat center center/cover;
     height: 500px;
     width: 1200px;
     margin: 0 auto;
